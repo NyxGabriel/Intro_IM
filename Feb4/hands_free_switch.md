@@ -11,24 +11,37 @@ I have a collection of fairy lights, so I took a look at the ones working with a
 <p align="center">
   <img src="MVIMG_20200202_154847.jpg" width="350" title="LED taken apart">
 </p>
-![](MVIMG_20200202_154847.jpg)
 
 With a gentle push and a screwdriver, they were easy to piece apart.
 
 Inside there is a chip with a resistor (labeled R) and a connection to the batteries, and the batteries. There is also a toggle that has three settings: off, light, and strong. The circuit looked very simple, just like the ones we discussed and made in class. From here on I knew what I had to do: add my interactive switch to the wire going to or from the battery. 
 First I had to test if the doors transfer electricity as I would use them part of my switch. It worked:
 
+<p align="center">
+  <img src="the_door_resists.jpg" width="350" title="The Door Resists">
+</p>
+
 Then I had to test if the wires I found in the recycling bin for wires were long enough, so I went back to my room and tested it out:
+
+<p align="center">
+  <img src="Screen Shot 2020-02-03 at 5.45.29 PM.png" width="350" title="The Room Complies">
+</p>
+
 
 One of them needed a little cut, but otherwise, they fit well and did not go in my way too much. 
 Now that I had the testing ready and successful I went back to the lab.
 I cut the wire that returns to the battery: 
-
+<p align="center">
+  <img src="cut.jpg" width="350" title="Snap!">
+</p>
 And then I soldered my two long wires to the ends of the two cuts. I secured them with a layer of plastic so that they don't touch as they are close to each other and there is a chance of that happening otherwise, and I don't want to short circuit them.
 Shoutout to Jack who showed me the ropes and who also confirmed my ideas were correct along the way, which ensured I didn't destroy these lights along the way. 
  And then it worked! I went back to my room and I attached them to their places and now I have my little night light.
 
 This is how it looks at the end.
+<p align="center">
+  <img src="finished.jpg" width="350" title="The Finished Lights">
+</p>
 
 There is a toggle on the lights, it has to be on in order for the door switch to work. Once I get inside my bed I can turn the toggle off and even though the switch is still on the lights go out and I can sleep. The next morning, I can turn the toggle on again and it will be ready for the night. 
 
