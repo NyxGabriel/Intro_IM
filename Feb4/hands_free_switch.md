@@ -1,5 +1,6 @@
 **Here is the description of my hands free switch**
-The first task in Intro to IM was to use an interesting, atypical, creative interaction to turn on lights. When I heard that I knew then and there that for the longest time I have wished for this too in my room: when I am going to bed I turn off the main light, close my door and end up in complete darkness on my way to the bed, which sometimes results in injury. 
+
+I have wished for this in my room: when I am going to bed I turn off the main light, close my door and end up in complete darkness on my way to the bed, which sometimes results in injury. 
 I took this first project in Interactive Media as a way to challenge myself and fix my problem. I would get fairy lights and connect them to the closing mechanism of my door. When the wire on the mortise and the one on the tenon touch, that would close the circuit and the lights will turn on.
 Here is the video documentation and the written description is under it:
 https://youtu.be/5fdahpI85gY
