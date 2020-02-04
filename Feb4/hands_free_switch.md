@@ -8,6 +8,9 @@ https://youtu.be/5fdahpI85gY
 Here is how I did this: 
 I have a collection of fairy lights, so I took a look at the ones working with a battery and realized that they could be the LEDs I use for this project. So, I took them apart:
 
+<p align="center">
+  <img src="MVIMG_20200202_154847.jpg" width="350" title="LED taken apart">
+</p>
 ![](MVIMG_20200202_154847.jpg)
 
 With a gentle push and a screwdriver, they were easy to piece apart.
