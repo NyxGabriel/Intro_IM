@@ -33,7 +33,7 @@ One of them needed a little cut, but otherwise, they fit well and did not go in 
 Now that I had the testing ready and successful I went back to the lab.
 I cut the wire that returns to the battery: 
 <p align="center">
-  <img src="cut.jpg" width="350" title="Snap!">
+  <img src="cut.jpg" width="350" title="Snap!" rotate="90">
 </p>
 And then I soldered my two long wires to the ends of the two cuts. I secured them with a layer of plastic so that they don't touch as they are close to each other and there is a chance of that happening otherwise, and I don't want to short circuit them.
 Shoutout to Jack who showed me the ropes and who also confirmed my ideas were correct along the way, which ensured I didn't destroy these lights along the way. 
