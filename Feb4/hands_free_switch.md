@@ -45,6 +45,10 @@ This is how it looks at the end.
 
 There is a toggle on the lights, it has to be on in order for the door switch to work. Once I get inside my bed I can turn the toggle off and even though the switch is still on the lights go out and I can sleep. The next morning, I can turn the toggle on again and it will be ready for the night. 
 
+<p align="center">
+  <img src="ezgif.com-video-to-gif.gif" title="The Finished Lights">
+</p>
+
 Issues and Concerns: 
 1) I don't keep my door closed any other time than when I am asleep so this device works. 
 2) When the toggle is one there is electricity going in the circuit even though it is not closed, so there is a bit of waste of the batteries there. 
