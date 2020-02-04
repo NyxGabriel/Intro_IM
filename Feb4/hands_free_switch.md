@@ -52,4 +52,5 @@ There is a toggle on the lights, it has to be on in order for the door switch to
 Issues and Concerns: 
 1) I don't keep my door closed any other time than when I am asleep so this device works. 
 2) When the toggle is one there is electricity going in the circuit even though it is not closed, so there is a bit of waste of the batteries there. 
-3)  I have secured one of the wires on the wall, and the other one, connected to the door is long enough to be moved around without falling. However, it still crosses my floor, so I have put a carpet on it. It should not be a problem. I can update if this is enough after I have used it for a while. 
+
+3) I have secured one of the wires on the wall, and the other one, connected to the door is long enough to be moved around without falling. However, it still crosses my floor, so I have put a carpet on it. It should not be a problem. I can update if this is enough after I have used it for a while. 
