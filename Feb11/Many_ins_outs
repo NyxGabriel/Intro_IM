@@ -3,7 +3,8 @@
 For my multiple inputs and output project I decided to play with an input sensor we haven’t yet used and that I tried using in class but it didn’t work so I decided to figure it out: photo resistor.  
 
 I had to learn how to us it first and I googled it and found out you have to use the analog read as it gives more values than just on or off, but also everything it detects in between.
-As I was looking into that I realised that the LEDs can also be analog and so they can change their brightness.  
+As I was looking into that I realised that the LEDs can also be analog and so they can change their brightness. 
+Here is a video: https://youtu.be/1EujbaSOVfk
 
 My circuit works by pressing the switch to turn the two LEDs on and then by increasing the light coming into the photo resistor they will get dimmer. 
 
@@ -13,3 +14,4 @@ Issues and concerns:
 I cannot make the photo resistor show a zero even when I blind it fully, the minimum I can get is around 350. The internet said that different photo visitors have different values so I guess it might be the case this one goes from about 350 to about 1200. 
 
 The speed with which you press the button really matters because of the loop that updates super fast so you have to move fast. 
+
