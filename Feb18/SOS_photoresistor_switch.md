@@ -1,0 +1,2 @@
+*Emergcency SOS Switch*
+This week I decided to modify my last week’s circuit and add another feature to it. It still reacts to the increase of light to the photo resistor and it turns off the LEDs. However, if now the sensor stops receiving any light, irrespective of the switch state one of the LEDs will begin sending the SOS signal in Mores code. This is the so called emergency state of my circuit. 
