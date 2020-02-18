@@ -10,6 +10,10 @@ Circuit:
 
 [Video](https://youtu.be/bI--KfcfLaI)
 
+Set Up:
+<p align="center">
+  <img src="emergency state.jpg" width="350" title="Set Up">
+</p>
 Issues:
 
 1. I got used to using the photoresistor values with the actual values and translating it into mapped values took some tests. 
