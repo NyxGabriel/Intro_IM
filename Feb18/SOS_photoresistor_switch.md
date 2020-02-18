@@ -4,6 +4,13 @@ This week I decided to modify my last week’s circuit and add another feature t
 
 Circuit: 
 
+<p align="center">
+  <img src="project3_circut_schematic.jpg" width="350" title="Ugly circuit">
+</p>
+
+[Video](https://youtu.be/bI--KfcfLaI)
+
 Issues:
+
 1. I got used to using the photoresistor values with the actual values and translating it into mapped values took some tests. 
 2. I am bad at drawing, like really really bad... I am also aware the ports that I have drawn on my circuit schematic are not on the same sides on the Arduino. I hope it is not a problem, if it is I can fix it probably, but with a few more attempts at this drawing. 
