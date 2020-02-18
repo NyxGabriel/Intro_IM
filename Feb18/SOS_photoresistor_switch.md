@@ -5,7 +5,7 @@ This week I decided to modify my last week’s circuit and add another feature t
 Circuit: 
 
 <p align="center">
-  <img src="project3_circut_schematic.jpg" width="350" title="Ugly circuit" class ="rotate90">
+  <img src="project3_circut_schematic.jpg" width="350" title="Ugly circuit">
 </p>
 
 [Video](https://youtu.be/bI--KfcfLaI)
