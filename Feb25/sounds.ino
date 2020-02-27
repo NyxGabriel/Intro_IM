@@ -39,6 +39,7 @@ void setup() {
 void loop() {
 
   int button_state = digitalRead(button); //button state
+  
   digitalWrite(signal_out, LOW); //restart ultrasonic
   delayMicroseconds(3);
   digitalWrite(signal_out, HIGH); //send ultrasonic sound
@@ -46,6 +47,7 @@ void loop() {
   digitalWrite(signal_out, LOW); //stop ultrasonic sound
   duration = pulseIn(signal_in, HIGH); //get echo, measure distance
   distance = duration * 0.034 / 2; //calculate distance
+ 
   note = map(distance, 0, 400, 88, 0); //map distance to notes array index
   //Serial.println(note);
   note = constrain(note, 20, 88); //constrain map
