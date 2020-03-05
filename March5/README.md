@@ -6,7 +6,7 @@ I wanted it to be used for smokers who smoke with either hand, so there is the o
 
 This is the circuit diagram:
 <p align="center">
-  <img src="ashtraycircuit.jpg" width="350" title="Ugly circuit">
+  <img src="ashtray_circuit.jpg" width="350" title="Ugly circuit">
 </p>
 
 This is a photo of how the device looks on top and underneath:
