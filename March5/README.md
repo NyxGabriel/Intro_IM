@@ -1,6 +1,6 @@
 *Indoor Ashtray*
 
-I wanted to use recycled parts as usual and so I dug in the misalencious items in the lab until I got inspired enough to create something out of them. I selected a computer fan and two wooden plates. I decided to make an indoor ashtray that blows the smoke away from the smoker and provides a place to ash your cigarettes and keep the butts. 
+I wanted to use recycled parts as usual and so I dug in the miscellaneous items in the lab until I got inspired enough to create something out of them. I selected a computer fan and two wooden plates. I decided to make an indoor ashtray that blows the smoke away from the smoker and provides a place to ash your cigarettes and keep the butts. 
 
 I wanted it to be used for smokers who smoke with either hand, so there is the option to use the left or the right ashtray. There is a stand for the user’s hand where they can rest it comfortably. Inside the stand there are two pressure sensors on either side that turn on an LED that indicates which ashtray is currently in use. When an ashtray fills up a red LED turns on to indicate it needs to be replaced. The fan turns on when there is a hand in the stand by using photoresists placed in the base of the constructions. 
 
