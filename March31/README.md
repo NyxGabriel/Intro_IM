@@ -8,7 +8,7 @@ At first I wrote the code, with the random function. It was really sensitive abo
 so here  are two examples using different numbers of points. 
 These were the results:
 
-Randdom 100 Lines
+Random 100 Lines
 ![Random 100 Lines, Untitiled](https://github.com/NyxGabriel/Intro_IM/blob/master/March31/random_small.png)
 
 Random 500 Lines
@@ -16,6 +16,7 @@ Random 500 Lines
 As you can see  when you increase the number of lines the circles start to look alike and not get filled as much. 
 
 I wasn't happy so I decided to use the *noise* function and it created the desired effect, very similar to the original one:
+
 Noisy 300 Lines
 ![Noisy 300 lines, Untitiled](https://github.com/NyxGabriel/Intro_IM/blob/master/March31/noise_300.png)
 
@@ -24,6 +25,7 @@ Noisy 500 Lines
 
 I added some color in order to constibute to the painting myself. It can be found in the linesInCircle function and
 it can be uncommented for similar effects.
+
 Noisy Colorfull 400
 ![Noisy Colorful 400, Untitiled](https://github.com/NyxGabriel/Intro_IM/blob/master/March31/color_400.png)
 
