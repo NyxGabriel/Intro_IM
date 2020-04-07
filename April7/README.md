@@ -3,7 +3,7 @@
 
 I have created a simple simulation of a virus spread. One can change the probability of getting the virus, the spread at which it can be spread and I have also introduced social distancing. 
 [Here is a link to the video](https://youtu.be/HjHSbS5N2Nc "Video of Simulation")
-[Untitled by Georg Ness](http://recodeproject.com/artwork/v1n2untitled18 "Untitled")
+
 
 The issues I have are the following:
 I couldnt decided what to call a time step in order to be able to show the progression in terms of "time". 
