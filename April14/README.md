@@ -7,8 +7,13 @@ The user can select a Pokemon type from the Button Menu and then they can see ho
 at a first listed type, how many as a second and how many have the two types (currently selected and previously selected).
 The data is visualized both as a number and as a PieChart.
 
-Credit to ControlP5 (http://www.sojamo.de/libraries/controlP5/), a library written by Andreas Schlegel. 
-And also to Rouna Kbanik (https://www.kaggle.com/rounakbanik/pokemon), whose Pokemon data set I used. 
+Here is a picture of the program:
+
+
+And here is a video of it. 
+
+Credit to [ControlP5](http://www.sojamo.de/libraries/controlP5/), a library written by Andreas Schlegel. 
+And also to [Rouna Kbanik](https://www.kaggle.com/rounakbanik/pokemon), whose Pokemon data set I used. 
 
 Issues: 
 1.A pie chart is bad for representing such small numbers. But it was too late when I figured out that there are only a few Pokemon from each type.
