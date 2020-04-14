@@ -12,7 +12,7 @@ Here is a picture of the program:
   <img src="pokemon_counter.png" width="500" height = "400" title="Pokemon Type Counter">
 </p>
 
-And here is a video of it. 
+And here is a [video](https://youtu.be/irJij-IUNDw) of it. 
 
 Credit to [ControlP5](http://www.sojamo.de/libraries/controlP5/), a library written by Andreas Schlegel. 
 And also to [Rouna Kbanik](https://www.kaggle.com/rounakbanik/pokemon), whose Pokemon data set I used. 
