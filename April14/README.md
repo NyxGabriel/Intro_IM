@@ -9,7 +9,7 @@ The data is visualized both as a number and as a PieChart.
 
 Here is a picture of the program:
 <p align="center">
-  <img src="pokemon_counter.png" width="500" height = "300" title="Pokemon Type Counter">
+  <img src="pokemon_counter.png" width="500" height = "400" title="Pokemon Type Counter">
 </p>
 
 And here is a video of it. 
