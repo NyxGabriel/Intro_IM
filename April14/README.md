@@ -16,5 +16,7 @@ Credit to [ControlP5](http://www.sojamo.de/libraries/controlP5/), a library writ
 And also to [Rouna Kbanik](https://www.kaggle.com/rounakbanik/pokemon), whose Pokemon data set I used. 
 
 Issues: 
+
 1.A pie chart is bad for representing such small numbers. But it was too late when I figured out that there are only a few Pokemon from each type.
+
 2.The titles are outside of the translation because otherwise they change color. 
