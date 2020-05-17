@@ -3,8 +3,7 @@
 Final Project for Intro to IM by Nicole Dobreva
 
 The goal of this project was to create a program that recognizes speech and displpays it in a spiral while also 
-creating a word cloud of the most commonly used words in the center of the screen. It is supposed to be a type of a diary that just gives you a bit of statistical 
-insight into your thoughts/ the language you use. 
+creating a word cloud of the most commonly used words in the center of the screen. It is supposed to be a type of a diary that just gives you a bit of statistical insight into your thoughts/ the language you use. 
 In order to exit the program you have to press Backspace. That will save your current session in a file called Diary. For your next session you would have to upload this file to the sketch. 
 The easiest way to work with the multiple sessions is to add them in one .txt file and upload it every time. 
 I guess I could connect it to an online database so that results can be saved and accessed through there but I am not sure it will work with our pssword, MFA protected Google Drives. 
@@ -18,7 +17,7 @@ Then I borrowed some code from [Christopher Andrews](https://www.openprocessing.
 
 The last component was the creation of the word cloud. It is borrowed from [Dan Shiffman](https://github.com/shiffman/A2Z-F17/tree/master/week5-analysis/01_concordance). I used the sort by count of the concodrance in order to get the words I needed. 
 
-As much as I found helful code on the internet to help me in this endaviour I still faced some issues. 
+As much as I found helpful code on the internet to help me in this endaviour I still faced some issues. 
 
 1. The speech recognition is very slow, which slows down the rest of the code. It does not create a very pleasant and smooth user expirience as I was hoping for. 
 Maybe with more time and maybe some expert help I could fix the library and make it be faster.  
