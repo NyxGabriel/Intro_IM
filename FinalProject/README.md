@@ -12,7 +12,7 @@ I guess I could connect it to an online database so that results can be saved an
 Here is a link to the [Meditative Spiral](https://editor.p5js.org/NyxG/sketches/JwTguc93m).
 
 The creation of this spiral was not easy. First I had to move from processing to p5 as the Processing speech recognition library was old and did not work. 
-Credit for the speech regocnition can be found [here] (https://idmnyu.github.io/p5.js-speech/).
+Credit for the speech regocnition can be found [here](https://idmnyu.github.io/p5.js-speech/).
 
 Then I borrowed some code from [Christopher Andrews](https://www.openprocessing.org/sketch/129166/) to help me visualize the text in a spiral. Although it was a good start a lot of modifications had to be made in order for the code to dynamically take input, show it in different spirals etc. 
 
